@@ -171,3 +171,5 @@
 20230911	14:22:12	ed9bb356-78ef-4bd7-9eed-404f011dd846	POST	undefined	/register
 20230911	14:38:45	c40da390-638a-4c5c-a3dd-7b2510bbb672	POST	undefined	/register
 20230911	14:38:48	66b78cf2-d56c-47be-bd0b-2469e4b33f92	POST	undefined	/register
+20230911	14:49:53	32edcf80-39c4-43b6-b434-4b67b7f5cfe9	POST	undefined	/auth
+20230911	14:50:16	e1e8d9f9-1d4a-4988-947f-f839425b9321	POST	undefined	/auth
